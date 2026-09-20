@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    font-family: Arial;
+    background-color: #eaf7ed; /*eu botei essa propriedade para falr a cor de fundo*/
+    color: #222222;
+}
+/* container pricipal d oquiz e a caixa onde eue vou notar as coissas dentro*/
+.container {
+    width: 600px;
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;/*swadow funny*/
+    text-align: center;
+}
+h1 {
+color: #16803c;
+}
+h2 {
+color: #222222;
+}
+p {
+    font-size: 18px;
+}
+button {
+    background-color: #16803c;
+    color: #ffffff;
+    padding: 10px 20px;
+    margin:10px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+/*eu botei isso pra inrriquecer o aplicativo quand o passar o botao mudar a cor do botao*/
+button:hover {
+    background-color: #000000;
+}
+#alternativas {
+    margin-top: 20px;
+}
+.alternativa {
+    background-color: #f1f1f1;
+    color: #222222;
+    border: 2px solid #16803c;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.alternativa:houver {
+    background-color: #d9f2df;
+}
+.escolhida {
+    background-color: #16803c;
+    color: #ffffff;
+}
+
+.escondido {
+    display: none;
+}
+#pontuacao {
+    font-size: 22px;
+    font-weight: bold;
+}
