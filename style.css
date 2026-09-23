@@ -65,3 +65,13 @@ button:hover {
     font-size: 22px;
     font-weight: bold;
 }
+
+.alternativa.correta {
+    background-color: #28a745 !important;
+    color: white !important;
+}
+
+.alternativa.errada {
+    background-color: #dc3545 !important;
+    color: white !important;
+}

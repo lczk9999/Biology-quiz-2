@@ -1,16 +1,32 @@
-<DOCTYPE html>
-   <html lang="pt-br">
-    <head>
-       <meta charset="UTF-8">
-       <meta name="viewport"
-       content="width=device-width,
-       initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - Nucleo Celular</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-          <title>Quiz - Nucleo Celular</
-            title>
+    <div id="inicio">
+        <h1>Quiz sobre Núcleo Celular</h1>
+        <button id="BotaoIniciar">Iniciar Quiz</button>
+    </div>
 
-            <link rel="stylesheet"
-        href="style.css">
-          </head>
+    <div id="quiz" class="escolhido">
+        <div id="numerosdeperguntas"></div>
+        <div id="pergunta"></div>
+        <div id="alternativas"></div>
+        <button id="proxima">Próxima Pergunta</button>
+    </div>
 
-        <body>
+    
+    <div id="resultado" class="escolhido">
+        <h2>Fim do Quiz!</h2>
+        <div id="pontuaçao"></div>
+        <button id="reniciar">Reiniciar Quiz</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
