@@ -1,31 +1,37 @@
 # Biology-quiz-2
 
-This is a simple quiz designed to test my programming skills and practice project deployment. Despite its simplicity, I really enjoyed developing it and achieved a very pleasant result. It functions as a biology quiz focused on **cell structure**, specifically the **nucleus**. 
-
-The system uses a question-and-answer format with multiple-choice options: if you select the wrong answer, the button turns red; if you select the correct one, it turns green. Navigation is straightforward, featuring "Skip" and "Next" buttons.
 
 
-
-* **HTML (Structure)**:Foi usado para criar a estrutura do meu código, para posicionar seus elementos, textos, botões e caixas, e para definir as coisas. Pode-se dizer que é a principal linguagem. Sobre o processo de criação, não foi difícil. Acho que já tenho bastante domínio, aprendi assistindo a aulas, e acredito ter alcançado um resultado bom e interessante.
+This is a simple quiz created to test my programming skills and showcase my work. Although it is simple, I really enjoyed developing it and find the result interesting. It functions as a biology quiz focused on the cellular structure of the nucleus.
 
 
 
-* **JavaScript (Logic):** É o cérebro. Nele, eu realizo as operações no HTML, defino as regras e crio a lógica. Eu o desenvolvi e foi um pouco trabalhoso, mas achei interessante programar nele. Claro, tive dificuldades na época da programação e precisei recorrer a recursos como vídeos e inteligência artificial para me ajudar a entender, mas tudo foi digitado por mim e com minha própria estrutura.
+The site uses a question-and-answer system with multiple-choice options; if you select the wrong answer, the button turns red, whereas selecting the correct one turns the block green. The site is simple and straightforward, featuring "Next" and "Restart" buttons.
 
 
 
-* **CSS (Design):** Este deu trabalho! Apesar de ser um dos mais fáceis para mim em termos de lógica de trabalho, na escolha das cores eu estava em dúvida e precisei ficar testando até encontrar a ideal. O CSS é muito importante, é a base do meu código. Deu trabalho, mas cheguei a um resultado satisfatório nas cores, e admito que usei um pouco de IA para alcançar o tom correto.
-
-
-In general, the website is simple and built to test your science knowledge, entirely in Portuguese (PT-BR). If you need more details or want to review the implementation, the complete source code is available here in this repository.
+* **HTML**: I used HTML to create the code structure and position elements such as boxes, buttons, text, and options. HTML is the core language that makes the site work, as it defines the various components. As for the creation process, it wasn't difficult; I believe I have gained a solid understanding from watching lessons, and I think the final result turned out well.
 
 
 
-* **Access:** As for installation, it isn't necessary since it runs directly on the web; you simply need to access the link and take the quiz—that’s all there is to it, so no further steps are required.
+* **JavaScript** It acts as the brain where I define the logic. The process is simple: I define the elements in HTML, and use JavaScript to handle the logic—how the site functions, the behavior of buttons and text, and the mechanics of each part. Without it, a large portion of the site wouldn't work. I think the code turned out organized and well-structured; overall, I didn't face many difficulties with it.
 
 
 
-  As for how it works, it is running perfectly and is already up and running; there may be future updates, but for now, just enjoy the site.
+* **CSS**: In my opinion, this is one of the trickiest parts; even though it seems simple, I find it hard to nail down positioning and color choices. It forms the visual structure of the site—without it, everything would look dull and unappealing—so I used it to create a design that is simple yet functional. Although I used AI, I coded every part myself and settled on a color scheme that turned out well.
+
+
+
+The site is simple and was created to test your science knowledge; it is entirely in Brazilian Portuguese, as it is a science quiz designed for that audience. If anyone needs more details or wants to better understand the site, the complete code is available in the GitHub repository.
+
+
+
+* **Access:** There is no need to install this quiz, as it runs directly on the web; simply access the link and answer the quiz—that’s all there is to it, with no extra steps required.
+
+
+
+It is running perfectly on the web and is accessible to anyone, though the site might still be updated.
+
 
 
   <img width="1917" height="891" alt="Captura de tela 2026-09-23 161601" src="https://github.com/user-attachments/assets/26b76f0e-3229-473a-8310-7baad437602b" />
